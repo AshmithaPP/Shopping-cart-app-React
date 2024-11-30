@@ -1,0 +1,182 @@
+[
+    {
+        "id": 89,
+        "name": "Farmers Pick",
+        "amt": "299",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "/public/pizza.avif",
+        "latest": "No"
+    },
+    {
+        "id": 124,
+        "name": "Paper Roast Dosa",
+        "amt": "65",
+        "shop": "Sri Saivihar",
+        "ftype": "Veg",
+        "pic": "/public/paperdosa.avif",
+        "latest": "No"
+    },
+    {
+        "id": 26,
+        "name": "Alfredo Pasta",
+        "amt": "185",
+        "shop": "Lakshmi Food",
+        "ftype": "Veg",
+        "pic": "/public/pasta.avif",
+        "latest": "Yes"
+    },
+    {
+        "id": 101,
+        "name": "Margarita Pizza",
+        "amt": "249",
+        "shop": "Domino's",
+        "ftype": "Pizza",
+        "pic": "/public/dominospizza.avif",
+        "latest": "No"
+    },
+    {
+        "id": 202,
+        "name": "Butter Chicken",
+        "amt": "320",
+        "shop": "Punjabi Dhaba",
+        "ftype": "Non-Veg",
+        "pic": "/public/butterchicken.avif",
+        "latest": "Yes"
+    },
+    {
+        "id": 303,
+        "name": "Paneer Tikka",
+        "amt": "150",
+        "shop": "Tandoor Grill",
+        "ftype": "Veg",
+        "pic": "/public/grill.avif",
+        "latest": "No"
+    },
+    {
+        "id": 404,
+        "name": "Classic Burger",
+        "amt": "99",
+        "shop": "Burger King",
+        "ftype": "Fast Food",
+        "pic": "/public/burger.avif",
+        "latest": "No"
+    },
+    {
+        "id": 505,
+        "name": "Veg Fried Rice",
+        "amt": "110",
+        "shop": "Chinese Express",
+        "ftype": "Veg",
+        "pic": "/public/froedrice.avif",
+        "latest": "No"
+    },
+    {
+        "id": 606,
+        "name": "Tandoori Chicken",
+        "amt": "350",
+        "shop": "Tandoor Palace",
+        "ftype": "Non-Veg",
+        "pic": "/public/tandoori.avif",
+        "latest": "Yes"
+    },
+    {
+        "id": 707,
+        "name": "Mutton Biryani",
+        "amt": "399",
+        "shop": "Paradise Biryani",
+        "ftype": "Non-Veg",
+        "pic": "/public/muttonbiryani.avif",
+        "latest": "No"
+    },
+    {
+        "id": 808,
+        "name": "Chocolate Brownie",
+        "amt": "70",
+        "shop": "Sweet Treats",
+        "ftype": "Dessert",
+        "pic": "https://images.unsplash.com/photo-1512325605119-b10de50ecba9?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "latest": "No"
+    },
+    {
+        "id": 909,
+        "name": "Spring Rolls",
+        "amt": "120",
+        "shop": "Chinese Express",
+        "ftype": "Veg",
+        "pic": "https://images.unsplash.com/photo-1669340781012-ae89fbac9fc3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "latest": "No"
+    },
+    {
+        "id": 1001,
+        "name": "Cheese Sandwich",
+        "amt": "80",
+        "shop": "Snack Point",
+        "ftype": "Veg",
+        "pic": "https://plus.unsplash.com/premium_photo-1671559021713-85314a186d9e?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "latest": "No"
+    },
+    {
+        "id": 1102,
+        "name": "Malai Kofta",
+        "amt": "250",
+        "shop": "Spice House",
+        "ftype": "Veg",
+        "pic": "https://images.unsplash.com/photo-1666190092159-3171cf0fbb12?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "latest": "No"
+    },
+    {
+        "id": 1203,
+        "name": "Gulab Jamun",
+        "amt": "40",
+        "shop": "Sweet Treats",
+        "ftype": "Dessert",
+        "pic": "https://images.unsplash.com/photo-1593701461250-d7b22dfd3a77?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "latest": "Yes"
+    },
+    {
+        "id": 1304,
+        "name": "Fish Curry",
+        "amt": "300",
+        "shop": "Coastal Kitchen",
+        "ftype": "Non-Veg",
+        "pic": "https://images.unsplash.com/photo-1654863404432-cac67587e25d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "latest": "No"
+    },
+    {
+        "id": 1405,
+        "name": "Prawn Fry",
+        "amt": "350",
+        "shop": "Coastal Kitchen",
+        "ftype": "Non-Veg",
+        "pic": "https://images.unsplash.com/photo-1633504581786-316c8002b1b9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "latest": "No"
+    },
+    {
+        "id": 1506,
+        "name": "Veg Manchurian",
+        "amt": "150",
+        "shop": "Chinese Express",
+        "ftype": "Veg",
+        "pic": "https://images.unsplash.com/photo-1682622110433-65513a55d7da?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "latest": "No"
+    },
+    {
+        "id": 1607,
+        "name": "Rasmalai",
+        "amt": "50",
+        "shop": "Sweet Treats",
+        "ftype": "Dessert",
+        "pic": "https://images.unsplash.com/photo-1694402594431-23c594be1745?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "latest": "Yes"
+    },
+    {
+        "id": 1708,
+        "name": "Grilled Chicken",
+        "amt": "280",
+        "shop": "Grill House",
+        "ftype": "Non-Veg",
+        "pic": "https://images.unsplash.com/photo-1712579733874-c3a79f0f9d12?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "latest": "No"
+    }
+]
